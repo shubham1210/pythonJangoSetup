@@ -1,0 +1,4 @@
+source /Users/58105/.local/share/virtualenvs/storefront-ChbmZ_N0/bin/activate
+python manage.py runserver      
+pipenv install django-debug-toolbar
+python manage.py startapp plaground     // adding module or sub work.
